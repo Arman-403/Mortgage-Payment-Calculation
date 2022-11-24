@@ -5,7 +5,7 @@ public class Main {
 
 public static void main(String[]args){
 
-       
+
                 byte monthsInYears = 12 ;
                 byte percentage = 100;
 
